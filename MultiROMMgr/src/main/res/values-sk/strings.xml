@@ -12,7 +12,7 @@
     <string name="no_multirom">MultiROM nie je nainštalovaný.</string>
     <string name="no_recovery">MultiROM recovery nie je nainštalované.</string>
     <string name="has_kexec"><![CDATA[<font color=\"#339900\">má kexec-hardboot patch</font>]]></string>
-    <string name="no_kexec"><![CDATA[<font color=\"red\">nemá kexec-hardboot patch!</font>]]></string>
+    <string name="no_kexec"><![CDATA[<font color=\"#AAAAAA\">nemá kexec-hardboot patch!</font>]]></string>
     <string name="update_available"><![CDATA[<font color=\"blue\"> (Dostupná aktualizácia)</font>]]></string>
     <string name="manifest_fail">Nepodarilo sa načítať informácie o aktualizácii!</string>
     <string name="install_multirom">MultiROM v%1$s</string>

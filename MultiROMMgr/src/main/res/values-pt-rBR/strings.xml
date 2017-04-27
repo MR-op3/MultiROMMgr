@@ -12,7 +12,7 @@
     <string name="no_multirom">MultiROM não está instalado.</string>
     <string name="no_recovery">MultiROM recovery não está instalado.</string>
     <string name="has_kexec"><![CDATA[<font color=\"#339900\">tem o patch kexec-hardboot</font>]]></string>
-    <string name="no_kexec"><![CDATA[<font color=\"red\">não tem o patch kexec-hardboot!</font>]]></string>
+    <string name="no_kexec"><![CDATA[<font color=\"#AAAAAA\">não tem o patch kexec-hardboot!</font>]]></string>
     <string name="update_available"><![CDATA[<font color=\"blue\"> (Atualização disponível)</font>]]></string>
     <string name="manifest_fail">Falha ao baixar informações sobre atualizações!</string>
     <string name="install_multirom">MultiROM v%1$s</string>
