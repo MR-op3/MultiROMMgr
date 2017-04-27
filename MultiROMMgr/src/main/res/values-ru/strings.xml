@@ -12,7 +12,7 @@
     <string name="no_multirom">MultiROM не установлен.</string>
     <string name="no_recovery">MultiROM рекавери не установлено.</string>
     <string name="has_kexec"><![CDATA[<font color=\"#339900\">имеет  kexec-hardboot патч</font>]]></string>
-    <string name="no_kexec"><![CDATA[<font color=\"red\">не имеет kexec-hardboot  патча </font>]]></string>
+    <string name="no_kexec"><![CDATA[<font color=\"#AAAAAA\">не имеет kexec-hardboot  патча </font>]]></string>
     <string name="update_available"><![CDATA[<font color=\"blue\"> (Обновление доступно)</font>]]></string>
     <string name="manifest_fail">Не удалось загрузить информацию об обновлениях!</string>
     <string name="install_multirom">MultiROM v%1$s</string>

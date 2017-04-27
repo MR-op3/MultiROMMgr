@@ -12,7 +12,7 @@
     <string name="no_multirom">MultiROM yüklenmedi.</string>
     <string name="no_recovery">MultiROM kurtarma modu yüklenmedi.</string>
     <string name="has_kexec"><![CDATA[<font color=\"#339900\">kexec-hardboot yaması mevcut</font>]]></string>
-    <string name="no_kexec"><![CDATA[<font color=\"red\">kexec-hardboot yaması yok!</font>]]></string>
+    <string name="no_kexec"><![CDATA[<font color=\"#AAAAAA\">kexec-hardboot yaması yok!</font>]]></string>
     <string name="update_available"><![CDATA[<font color=\"blue\"> (Güncelleme var)</font>]]></string>
     <string name="manifest_fail">Güncelleme bilgisi indirme başarısız!</string>
     <string name="install_multirom">MultiROM: v%1$s</string>

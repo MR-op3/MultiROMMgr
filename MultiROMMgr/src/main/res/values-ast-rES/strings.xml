@@ -11,7 +11,7 @@
   <string name="no_multirom">Nun ta instaláu MultiROM.</string>
   <string name="no_recovery">Nun ta instaláu\'l recovery MultiROM.</string>
   <string name="has_kexec"><![CDATA[<font color=\"#339900\">tien el parche kexec-hardboot</font>]]></string>
-  <string name="no_kexec"><![CDATA[<font color=\"red\">¡nun tien el parche kexec-hardboot!</font>]]></string>
+  <string name="no_kexec"><![CDATA[<font color=\"#AAAAAA\">¡nun tien el parche kexec-hardboot!</font>]]></string>
   <string name="update_available"><![CDATA[<font color=\"blue\"> (Anovamientu disponible)</font>]]></string>
   <string name="manifest_fail">¡Fallu al baxar la información tocante a los anovamientos!</string>
   <string name="install_multirom">MultiROM v%1$s</string>

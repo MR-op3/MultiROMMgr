@@ -12,7 +12,7 @@
     <string name="no_multirom">MultiROMはインストールされていません。</string>
     <string name="no_recovery">MultiROMリカバリはインストールされていません。</string>
     <string name="has_kexec"><![CDATA[<font color=\"#339900\">kexec-hardbootパッチ適用済み</font>]]></string>
-    <string name="no_kexec"><![CDATA[<font color=\"red\">kexec-hardbootパッチ未適用</font>]]></string>
+    <string name="no_kexec"><![CDATA[<font color=\"#AAAAAA\">kexec-hardbootパッチ未適用</font>]]></string>
     <string name="update_available"><![CDATA[<font color=\"blue\"> (更新あり)</font>]]></string>
     <string name="manifest_fail">更新情報のダウンロードに失敗しました!</string>
     <string name="install_multirom">MultiROM v%1$s</string>

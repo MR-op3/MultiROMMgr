@@ -12,7 +12,7 @@
     <string name="no_multirom">MultiROM 没有安装</string>
     <string name="no_recovery">MultiROM recovery 没有安装</string>
     <string name="has_kexec"><![CDATA[<font color=\"#339900\">有 kexec-hardboot 补丁</font>]]></string>
-    <string name="no_kexec"><![CDATA[<font color=\"red\">没有 kexec-hardboot 补丁!</font>]]></string>
+    <string name="no_kexec"><![CDATA[<font color=\"#AAAAAA\">没有 kexec-hardboot 补丁!</font>]]></string>
     <string name="update_available"><![CDATA[<font color=\"blue\"> (更新可用)</font>]]></string>
     <string name="manifest_fail">下载更新信息失败</string>
     <string name="install_multirom">MultiROM v%1$s</string>

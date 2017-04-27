@@ -9,7 +9,7 @@
   <string name="no_multirom">MultiROM לא מותקן.</string>
   <string name="no_recovery">MultiROM recovery אינו מותקן.</string>
   <string name="has_kexec"><![CDATA[<font color="#339900">מכיל תוספת kexec-hardboot </font>]]></string>
-  <string name="no_kexec"><![CDATA[<font color="red">לא מכיל תוספת kexec-hardboot!</font>]]></string>
+  <string name="no_kexec"><![CDATA[<font color="#AAAAAA">לא מכיל תוספת kexec-hardboot!</font>]]></string>
   <string name="update_available"><![CDATA[<font color="blue"> (יש עדכון)</font>]]></string>
   <string name="manifest_fail">לא הצליח להוריד מידע אודות עדכונים!</string>
   <string name="install_kernel">ליבה:</string>
