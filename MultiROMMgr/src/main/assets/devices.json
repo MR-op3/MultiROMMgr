@@ -97,15 +97,37 @@
             "devices": [
                 {
                     "name": "recovery",
-                    "path": "/dev/block/platform/soc/624000.ufshc/by-name/recovery"
+                    "path": "/dev/block/bootdevice/by-name/recovery"
                 },
                 {
                     "name": "boot",
-                    "path": "/dev/block/platform/soc/624000.ufshc/by-name/boot"
+                    "path": "/dev/block/bootdevice/by-name/boot"
                 },
                 {
                     "name": "cache",
-                    "path": "/dev/block/platform/soc/624000.ufshc/by-name/cache"
+                    "path": "/dev/block/bootdevice/by-name/cache"
+                }
+            ]
+        },
+        {
+            "names": [ "oneplus5", "OnePlus5", "cheeseburger", "A5000", "op5" ],
+            "ubuntu_touch": {
+                "enabled": false,
+                "base_url": ""
+            },
+            "official": true,
+            "devices": [
+                {
+                    "name": "recovery",
+                    "path": "/dev/block/bootdevice/by-name/recovery"
+                },
+                {
+                    "name": "boot",
+                    "path": "/dev/block/bootdevice/by-name/boot"
+                },
+                {
+                    "name": "cache",
+                    "path": "/dev/block/bootdevice/by-name/cache"
                 }
             ]
         },
