@@ -830,6 +830,27 @@
                     "path": "/dev/block/platform/soc.0/f9824900.sdhci/by-name/cache"
                 }
             ]
+        },
+        {
+            "names": [ "sanders", "sanders_n" ],
+            "check_gpg": false,
+            "ubuntu_touch": {
+                "enabled": false
+            },
+            "devices": [
+                {
+                    "name": "recovery",
+                    "path": "/dev/block/bootdevice/by-name/recovery"
+                },
+                {
+                    "name": "boot",
+                    "path": "/dev/block/bootdevice/by-name/boot"
+                },
+                {
+                    "name": "cache",
+                    "path": "/dev/block/bootdevice/by-name/cache"
+                }
+            ]
         }
     ]
 }
